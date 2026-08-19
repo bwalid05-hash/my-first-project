@@ -1,13 +1,5 @@
-# my-first-project
+# My First Project
 
-my first GitHub project
+This is my first project with GitHub and VS Code.
 
-I am Learning GitHub
-
-this is my second change
-
-kadour
-haya lina
-
-this is my first branch
-
+I am learning programming step by step.
